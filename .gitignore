@@ -1,2 +1,7 @@
 venv
 .idea
+/dist
+/build
+*.spec
+__pycache__/
+*.pyc
